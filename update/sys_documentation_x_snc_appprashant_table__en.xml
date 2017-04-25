@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="AppPrashant Table" language="en" table="x_snc_appprashant_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>AppPrashant Table</label>
+            <language>en</language>
+            <name>x_snc_appprashant_table</name>
+            <plural>AppPrashant Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>prashant.parbhane@snc</sys_created_by>
+            <sys_created_on>2017-04-25 17:53:29</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>44e75b52139ab2003b1f70d66144b0f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AppPrashant Table</sys_name>
+            <sys_package display_value="AppPrashant" source="x_snc_appprashant">5bd75bde135ab2003b1f70d66144b02f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AppPrashant">5bd75bde135ab2003b1f70d66144b02f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_appprashant_table__en</sys_update_name>
+            <sys_updated_by>prashant.parbhane@snc</sys_updated_by>
+            <sys_updated_on>2017-04-25 17:53:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
